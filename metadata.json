@@ -1,0 +1,6 @@
+{
+  "name": "Upgrade Hub",
+  "description": "Free student growth and productivity platform to plan, learn, track, compete, and level up academic performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
